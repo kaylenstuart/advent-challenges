@@ -29,11 +29,16 @@ Link: https://adrianroselli.com/2024/12/development-advent-calendars-for-2024.ht
 Java/JVM-ecosystem posts and technical articles are released each day.
 Link: https://adrianroselli.com/2024/12/development-advent-calendars-for-2024.html
 
+**Mission Encodeable Christmas Coding Challenges**
+An emporium of free, festive Python coding challenges
+Link: https://missionencodeable.com/christmas
+
 ##🛡 Cybersecurity & CTF Advent Calendars
 
 **Advent of Cyber (TryHackMe)**
 Beginner-to-intermediate cybersecurity challenges: exploitation, OSINT, web vulns, cloud, forensics.
 Link: https://tryhackme.com/adventofcyber25
+
 (Other security-CTF sites often run seasonal Advent challenges, but TryHackMe is the major free annual event.)
 
 ##🌐 Web Development & Front-End Advent Calendars**
@@ -76,8 +81,3 @@ Link: https://24pullrequests.com
 Physical-computing projects for the Sense HAT during December.
 Link: https://projects.raspberrypi.org/en/projects/sense-hat-advent-calendar
 
-##💡 Bonus: Seasonal Code Challenge Lists
-
-**Festive Coding Challenges (Front-end Projects)**
-Holiday-themed mini coding tasks: snow animations, timers, JS widgets, UI components.
-Link: https://www.frameworktraining.co.uk/news-insights/festive-coding-challenges-2024
